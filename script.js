@@ -94,7 +94,7 @@ checkScoreBtn.addEventListener('click', async () => {
  */
 async function callGeminiAPI(jobDesc, resumeContent) {
     // IMPORTANT: You must add your own API key here!
-    const apiKey = "AIzaSyA_qB1CaFlwNAGAiINqgimXe-3JSaxBJM8"; // <--- PASTE YOUR GOOGLE AI API KEY HERE
+    const apiKey = ""; // <--- PASTE YOUR GOOGLE AI API KEY HERE
 
     // Show an error if the API key is missing
     if (apiKey === "") {
