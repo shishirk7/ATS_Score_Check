@@ -1,5 +1,7 @@
 # ATS Score Checker
 
+Aditya Raj
+
 A powerful web-based tool that analyzes the compatibility of a resume against a job description using AI-powered semantic analysis. This project provides a match score, highlights missing and matched keywords, and offers actionable suggestions to optimize resumes for Applicant Tracking Systems (ATS).
 
 ---
